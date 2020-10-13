@@ -59,7 +59,7 @@ If you do not need the whole width (35mm) for your custom IO module, you can red
 For this example I chose a very common chip, [PCF8574 GPIO expander](https://www.ti.com/lit/ds/symlink/pcf8574.pdf) chip. This chip is controlled over I2C and extends your GPIO count by 8 bi-directional GPIO's.    
 
 ### IO Expander example schematic
-Let's have a look into the WisBlock Sensor RTC schematic.    
+Let's have a look into the WisBlock IO expander schematic.    
 ![IO schematic](./assets/IO-Schematic.png)        
 The first thing to check is that we removed most connections from the board-to-board connector.     
 ![Adjusted connector nets](./assets/IO-reduced-connector.png)    
