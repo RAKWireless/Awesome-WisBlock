@@ -35,9 +35,9 @@ The template schematic is very simple. It only includes the connector and a tabl
 
 ### Important information about the pin assignments
 A few things you need to know.
-- VDD is a 3.3V power supply that is available as long as your WisBlock is powered by USB or battery
+- VDD is the MCU's GPIO voltage, for a RAK4631 this would be 3.3V. It is available as long as your WisBlock is powered by USB or battery
 - 3V3_S is a 3.3V power supply that can be controlled by the WisBlock Core module.    
-If you sensor module is consuming only a few uA current, you can choose VDD to power the electronic parts of your sensor. But if your module is consuming a higher current, it is **strongly** recommended to use 3V3_S as supply voltage. This way you can optimize power consumption of your WisBlock application by software.    
+If your sensor module is consuming only a few uA current, you can choose VDD to power the electronic parts of your sensor. But if your module is consuming a higher current, it is **strongly** recommended to use 3V3_S as supply voltage. This way you can optimize power consumption of your WisBlock application by software.    
 
 - SPI_MISO, SPI_MOSI, SPI_CLK, SPI_CS is for the SPI interface. We recommend not to use SPI on the WisBlock Sensor modules, but instead use I2C. Because the SPI_CS signal is the same on all sensor slots. Only one SPI module can be used on the sensor extension slots of the WisBlock Base board. A workaround could be to use one of the GPIO's available on the sensor slot for the SPI chip select signal.
 
@@ -84,7 +84,7 @@ The Eagle files for the RTC example PCB can be downloaded from [here](./WisBlock
 ## Conclusion
 As you can see it is not difficult to design a custom WisBlock Sensor module. Just follow the few design rules for the PCB design:    
 - **DO NOT MOVE THE BOARD-TO-BOARD CONNECTOR FROM THE POSITION GIVEN IN THE TEMPLATE PCB**
-- **DO NOT MOVE THE MOUNTING HOLE FROM THE POSITION GIVEN IN THE TEMPLATe PCB**
+- **DO NOT MOVE THE MOUNTING HOLE FROM THE POSITION GIVEN IN THE TEMPLATE PCB**
 - Chose the right power supply for your sensor:
    - VDD if your current consumption is very low
    - 3V3_S if you need to control the power supply of your WisBlock Sensor module
