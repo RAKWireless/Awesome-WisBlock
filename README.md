@@ -3,6 +3,7 @@
 [RAKwireless WisBlock](https://docs.rakwireless.com/Product-Categories/WisBlock/) is open source. Not only the software is open source, but the hardware is as well.
 
 To support you, we created the _**Awesome WisBlock**_ repository. Here you find tutorials how to create your own **WisBlock Sensor** or **WisBlock IO** modules.    
+
 <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>     
 
 If you have created your own awesome IO or Sensor module, please share it here with the **WisBlock** community and become a **RAKstar**. And if it is something real awesome, **RAKwireless** might even produce it.
@@ -46,6 +47,7 @@ To make the task easier, we have prepared a complete example project for Autodes
 | 24 Pin Male | 24 Pin Female |
 | :--: | :--: |
 | ![24-pin male](./assets/24-pin-connector.jpg) | ![24-pin female](./assets/24-pin-connector-f.jpg) |     
+
 The board-to-board connectors used in the WisBlock products can be bought from the [RAKwireless store](https://store.rakwireless.com). There are two suppliers for the connectors, Panasonic and TXGA. On the base board (RAK5005-O) are the female/socket version, on the modules are the male/header version.      
 There are two types of connectors. The 24pin male connector is used for WisBlock Sensor modules. The 40pin male connector is used for WisBlock IO modules.    
 | 40 Pin Male | 40 Pin Female |
