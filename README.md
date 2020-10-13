@@ -4,7 +4,9 @@
 
 To support you, we created the _**Awesome WisBlock**_ repository. Here you find tutorials how to create your own **WisBlock Sensor** or **WisBlock IO** modules.    
 <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>     
-If you have created your own awesome IO or Sensor module, please share it here with the **WisBlock** community and become a **RAKstar**. And if it is something real awesome, RAKwireless might even produce it.
+
+If you have created your own awesome IO or Sensor module, please share it here with the **WisBlock** community and become a **RAKstar**. And if it is something real awesome, **RAKwireless** might even produce it.
+
 ----
 
 <center><img src="./assets/WisBlock.svg" alt="WisBlock" width=25%></center>
@@ -25,19 +27,19 @@ If you have created your own awesome IO or Sensor module, please share it here w
 ----
 
 ## Read this first
-- The board-to-board connectors used in the WisBlock products can be bought from the [RAKwireless store](https://store.rakwireless.com). There are two suppliers for the connectors, Panasonic and TXGA. On the base board (RAK5005-O) are the female/socket version, on the modules are the male/header version      
-- Have a good look into the datasheet of the RAK5005-O WisBlock Base board to understand the signals connected to the 4 sensor slots. => [RAK5005-O datasheet](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/)    
-- Have a good look into the datasheet of one of the existing WisBlock Sensor modules to understand the usage of the signals. For example the [RAK1906 Environment sensor](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1906/Datasheet/)    
-- Have a good look into the datasheet of one of the existing WisBlock IO modules to understand the usage of the signals. For example the [RAK1920 Sensor Adapter](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1920/Datasheet/)    
+- The board-to-board connectors used in the **WisBlock** products can be bought from the [RAKwireless store](https://store.rakwireless.com). There are two suppliers for the connectors, Panasonic and TXGA. On the base board (RAK5005-O) are the female/socket version, on the modules are the male/header version      
+- Have a good look into the datasheet of the **RAK5005-O WisBlock Base** board to understand the signals connected to the 4 sensor slots. => [RAK5005-O datasheet](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/)    
+- Have a good look into the datasheet of one of the existing **WisBlock Sensor** modules to understand the usage of the signals. For example the [RAK1906 Environment sensor](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1906/Datasheet/)    
+- Have a good look into the datasheet of one of the existing **WisBlock IO** modules to understand the usage of the signals. For example the [RAK1920 Sensor Adapter](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1920/Datasheet/)    
 
 ----
 
 ## WisBlock Sensor tutorial
-This tutorial leads you throught the steps to create your own WisBlock Sensor module. You can find the step-by-step tutorial [here](./WisBlockSensorTutorial.md)
+This tutorial leads you throught the steps to create your own **WisBlock Sensor** module. You can find the step-by-step tutorial [here](./WisBlockSensorTutorial.md)
 To make the task easier, we have prepared a complete example project for Autodesk Eagle™. You can download it [here](./WisBlock-Sensor-Template.zip).
 
 ## WisBlock IO tutorial
-This tutorial leads you throught the steps to create your own WisBlock IO module. You can find the step-by-step tutorial [here](./WisBlockIOTutorial.md)
+This tutorial leads you throught the steps to create your own **WisBlock IO** module. You can find the step-by-step tutorial [here](./WisBlockIOTutorial.md)
 To make the task easier, we have prepared a complete example project for Autodesk Eagle™. You can download it [here](./WisBlock-IO-Template.zip).
 
 ## Board-to-board connectors
@@ -59,16 +61,18 @@ There are two types of connectors. The 24pin male connector is used for WisBlock
 - Schematic and PCB part libraries for other PCB design tools than Eagle are available in the [Parts-Libraries](./PartsLibraries) 
 
 ## RAK examples
-We prepared a custom WisBlock Sensor and a custom WisBlock IO module as ready to go Eagle™ projects.
+We prepared a custom **WisBlock Sensor** and a custom **WisBlock IO** module as ready to go Eagle™ projects.
 
 ### RTC example
-This Eagle™ project is the outcome of the WisBlock Sensor tutorial. It is a RTC module with integrated backup battery.
+This Eagle™ project is the outcome of the **WisBlock Sensor** tutorial. It is a RTC module with integrated backup battery.
 
 ### IO extender example
-This Eagle™ project is the outcome of the WisBlock IO tutorial. It is an IO extender that gives you access to more GPIO's.
+This Eagle™ project is the outcome of the **WisBlock IO** tutorial. It is an IO extender that gives you access to more GPIO's.
 
 ## Community created modules
-This is your space. We hope that you share the _**awesome**_ WisBlock Sensor and WisBlock IO you created here with the community.    
+This is your space. We hope that you share the _**awesome**_ **WisBlock Sensor** and **WisBlock IO** you created here with the community.    
+
+----
 
 ----
 
