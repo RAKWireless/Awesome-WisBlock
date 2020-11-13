@@ -1,5 +1,5 @@
 # Outdoor Enclosure with Solar Panel
-This enclosure keeps your solution protected and charged with its Solar panel. Most outdoor enclosures with solar panels I saw have the problem that the solar panel is not pointing towards the sky, which limits the charging performance.     
+This enclosure keeps your solution well protected and charged with its Solar panel. Most outdoor enclosures with solar panels have the problem that the solar panel is not pointing towards the sky, which limits the charging performance.     
 
 ----
 
@@ -9,6 +9,7 @@ This enclosure keeps your solution protected and charged with its Solar panel. M
 
 ## Design files
 The 3D design files can be found in the [3D-Design](./3D-Design) folder.    
+
 Available formats:  
 - Fusion 360 (.f3z)
 - Object format (.obj)
@@ -21,7 +22,7 @@ Exported STL files for loading into your slicer are in the [STL](./STL) folder.
 ----
 
 ## Design details
-The body part of the enclosure has openings for    
+The body of the enclosure has openings for    
 - the antenna (it is advised to use a water-tight N-type antenna connector instead of the standard SMA connector in the design)
 - a PG7 wire gland
 - a small lid to access the USB port of the WisBlock    

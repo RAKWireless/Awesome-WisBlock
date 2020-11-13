@@ -2,7 +2,7 @@
 
 [RAKwireless WisBlock](https://docs.rakwireless.com/Product-Categories/WisBlock/) is open source. Not only the software is open source, but the hardware is as well.
 
-To support you, we created the _**Awesome WisBlock**_ repository. Here you find tutorials how to create your own **WisBlock Sensor** or **WisBlock IO** modules. And, as there was interest in 3D printable enclosures, we added a section for the [enclosures](./Enclosures).    
+To support you, we created the _**Awesome WisBlock**_ repository. Here you find tutorials how to create your own **WisBlock Sensor** or **WisBlock IO** modules. Also, as there was interest in 3D printable enclosures, we added a section for the [enclosures](./Enclosures).    
 
 <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>     
 

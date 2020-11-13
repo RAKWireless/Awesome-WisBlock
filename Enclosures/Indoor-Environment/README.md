@@ -9,6 +9,7 @@ This indoor enclosure here has a slightly larger footprint to allow the use of a
 ----
 
 The 3D design files can be found in the [3D-Design](./3D-Design) folder.    
+
 Available formats:  
 - Fusion 360 (.f3z)
 - Object format (.obj)
@@ -20,7 +21,7 @@ Exported STL files for loading into your slicer are in the [STL](./STL) folder.
 
 ## Design details
 The enclosure is assembled with screws. The body part has mounting points for the WisBlock Base module and the larger WisBlock IO modules.     
-There is as well an option to hold a 18650 battery.  
+There is also an option to hold a 18650 battery.  
 
 ----
 
@@ -36,7 +37,7 @@ The opening for the USB port is closed when the lid is mounted, but the design c
 
 ----
 
-A small opening close to the WisBlock IO module allows to connect external sensors or actuators to the indoor enclosure.  
+A small opening near the WisBlock IO module allows to connect external sensors or actuators to the indoor enclosure.  
 
 ----
 
