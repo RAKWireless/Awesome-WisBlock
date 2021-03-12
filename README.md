@@ -42,7 +42,9 @@ To make the task easier, we have prepared a complete example project for Autodes
 
 ## WisBlock IO tutorial
 This tutorial leads you throught the steps to create your own **WisBlock IO** module. You can find the step-by-step tutorial [here](./WisBlockIOTutorial.md)
-To make the task easier, we have prepared a complete example project for Autodesk Eagle™. You can download it [here](./WisBlock-IO-Template.zip).
+To make the task easier, we have prepared a complete example project for Autodesk Eagle™. You can download it [here](./WisBlock-IO-Template.zip).    
+
+<img src="./assets/rakstar.jpg" alt="RAKstar" width=5%>Thanks to RAKstar psupine we have now the example project for KiCad. Thank you very much for your contribution. You can download the [KiCad project here](./WisBlock-IO-Template-KiCad.zip)
 
 ## Board-to-board connectors
 | 24 Pin Male | 24 Pin Female |
