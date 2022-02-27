@@ -36,8 +36,12 @@ This is a new idea, slimmer than the environment enclosure. It has space for the
 All required files can be found in the [Indoor-Enclosure-I](/Indoor-Enclosure-I) folder.    
 | ![Indoor Enclosure I](/assets/indoor-i-top.png) | ![Indoor Enclosure I](/assets/indoor-i-bottom.png) |
 | --- | --- |
-| ![Indoor Enclosure I](/assets/indoor-i-top-printed.png) | ![Indoor Enclosure I](/assets/indoor-i-bottom-printed.png) |
-| ![Indoor Enclosure I](/assets/indoor-i-detail-1.png) | ![Indoor Enclosure I](/assets/indoor-i-detail-2.png) |
+| ![Indoor Enclosure I](/assets/indoor-i-top-printed.jpg) | ![Indoor Enclosure I](/assets/indoor-i-bottom-printed.jpg) |
+| ![Indoor Enclosure I](/assets/indoor-i-detail-1.jpg) | ![Indoor Enclosure I](/assets/indoor-i-detail-2.jpg) |
+
+As you can see in the pictures, the roof of the air channels are a challenge for the 3D printer as they are hanging bridges. I tried to use the "standard" support option of the slizer, but it is difficult to remove these type of supports. So I created a custom support for the bridges, that can be easily broken out after the print is finished:
+| ![Overhang support](/assets/indoor-environment-support.png) | ![Overhang support](/assets/indoor-environment-support-detail.png) |
+| --- | --- |
 
 ## Community Shared Enclosures
 RAK welcomes you to share enclosure ideas, together with the images, 3D designs, and STL files.
