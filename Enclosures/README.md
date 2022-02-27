@@ -5,6 +5,7 @@ We collected some inspirations for WisBlock compatible enclosures. These example
 ## Content
 - [Evaluation Modular](#evaluation-modular)
 - [Indoor Environment](#indoor-environment)
+- [Indoor Enclosure I](#indoor-enclosure-i)
 - [Outdoor Solar](#outdoor-solar)
 - [Community Shared Enclosures](#community-shared-enclosures)    
 
@@ -23,11 +24,20 @@ More details can be found in the [Evaluation-Modular](./Evaluation-Modular) fold
 ## Indoor Environment
 This idea was inspired by the [RAKBox-B3](https://docs.rakwireless.com/Product-Categories/Accessories/RAKBox-B3). As nice as the original enclosure is, it has the problem that it is too small to fit any of the WisBlock IO modules. With this new design, we get a slightly bigger enclosure in width and length, but with a reduced height. Details and 3D files can be found in the [Indoor-Environment](./Indoor-Environment) folder.    
 ![Indoor Environment](/assets/indoor-environment-overview.png)    
+
 ## Outdoor Solar 
 For outdoor usage, it is required to have a certain level of water-proofing. This concept does well in protecting the devices from water damage. However, additional measures must be done to achieve proof standards like IP65.    
 Most outdoor enclosures, specially the ones with solar panels are not well designed, as the solar panel is often not pointing towards the sky. It causes less efficiency in doing it's purpose. This is an approach to make a much more efficient design.    
 All required files can be found in the [Outdoor-Solar](/Outdoor-Solar) folder.    
 ![Outdoor Solar](/assets/outdoor-solar-overview.png)    
+
+## Indoor Enclosure I
+This is a new idea, slimmer than the environment enclosure. It has space for the RAK5005-O or the RAK19007 base board and implements air channels and sensor openings for different sensor types. It is designed for a flat rechargeable battery, but could easily adapted for an 18650 type battery holder.
+All required files can be found in the [Indoor-Enclosure-I](/Indoor-Enclosure-I) folder.    
+| ![Indoor Enclosure I](/assets/indoor-i-top.png) | ![Indoor Enclosure I](/assets/indoor-i-bottom.png) |
+| --- | --- |
+| ![Indoor Enclosure I](/assets/indoor-i-top-printed.png) | ![Indoor Enclosure I](/assets/indoor-i-bottom-printed.png) |
+| ![Indoor Enclosure I](/assets/indoor-i-detail-1.png) | ![Indoor Enclosure I](/assets/indoor-i-detail-2.png) |
 
 ## Community Shared Enclosures
 RAK welcomes you to share enclosure ideas, together with the images, 3D designs, and STL files.
