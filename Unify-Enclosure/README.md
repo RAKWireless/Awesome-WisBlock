@@ -14,6 +14,7 @@ To make it easier for you, we share here some ideas for mounting plates as well 
    - [Blank Base](#small-blank-base)
    - [GNSS location tracker base](#gnss-location-tracker-base)
    - [Helpers for customization](#helpers-for-customization)
+   - [Second level battery holder](#second-level-battery-holder)
 - [Medium Unify Enclosure](#medium-unify-enclosure)
    - [Blank Base](#medium-blank-base)
 
@@ -54,11 +55,23 @@ You can download the Step or STL files from this repository:
 
 | USB C type (RAK19003/RAK19003) | Micro USB type (RAK5005-O) |
 | -- | -- |
-| <img src="../assets/Unify-Drill-Guide-RAK19007-RAK19003.png" alt="RAKstar" > | <img src="../assets/Unify-Drill-Guide-RAK5005-O.png" alt="RAKstar" > |
+| <img src="../assets/Unify-Drill-Guide-RAK19007-RAK19003.png" alt="RAKstar" > | <img src="../assets/Unify-Drill-Guide-RAK5005-O.png" width = 50% alt="RAKstar" > |
 | Gland / Antenna | Mounting template |
-| <img src="../assets/Unify-Drill-Guide-Gland-Antenna.png" alt="RAKstar" > | <img src="../assets/Unify-Mounting-Template-1.png" alt="RAKstar" > |
+| <img src="../assets/Unify-Drill-Guide-Gland-Antenna.png" alt="RAKstar" > | <img src="../assets/Unify-Mounting-Template-1.png" width = 50% alt="RAKstar" > |
 | Mounting template | Mounting template |
-| <img src="../assets/Unify-Mounting-Template-2.png" alt="RAKstar" > | <img src="../assets/Unify-Mounting-Template-3.png" alt="RAKstar" > |
+| <img src="../assets/Unify-Mounting-Template-2.png" alt="RAKstar" > | <img src="../assets/Unify-Mounting-Template-3.png"  width = 50% alt="RAKstar" > |
+
+----
+
+## Second level battery holder
+
+There is space for a smaller battery below the mounting plates, but if you need to use a larger battery, e.g. our beloved 3200mAh LiPo, you need a second level mounting plate to place the battery. It is not yet available to buy, but in the meantime you can use this design and print it for yourself.
+It is placed on 10mm heigh stand-offs and leaves enough space for our fat 3200mAh battery. Download the [STEP](./Small-Unifiy-Enclosure/Battery-Holder.step) or the [STL](./Small-Unifiy-Enclosure/Battery-Holder.stl) file and start printing.
+
+<img src="../assets/Unify-Battery-Stand-1.png" alt="RAKstar" >
+<img src="../assets/Unify-Battery-Stand-2.png" alt="RAKstar" >
+<img src="../assets/Unify-Battery-Stand-3.png" alt="RAKstar" >
+
 
 ----
 
