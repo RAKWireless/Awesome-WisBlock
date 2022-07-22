@@ -16,7 +16,7 @@ To support you, we created the _**Awesome WisBlock**_ repository. Here you find
 **Content**    
 - [WisBlock modules](./WisBlock-Modules/README.md)
 - [3D printable enclosures](./Enclosures/README.md)
-- [Unified Mounting Plates](./Unified-Enclosure/README.md)
+- [Unify Enclosure Mounting Plates](./Unify-Enclosure/README.md)
 
 ----
 
