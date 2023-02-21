@@ -59,9 +59,8 @@ There are two types of connectors. The 24pin male connector is used for WisBlock
 | ![40-pin male](../assets/40-pin-connector.jpg) | ![40-pin female](./assets/40-pin-connector-f.jpg) |    
 
 ### Connector data sheets
-   - Panasonic connector [data sheet](https://www.panasonic-electric-works.com/pew/eu/downloads/ds_a4s_en.pdf)    
-   - TXGA connector [female data sheet](https://tupian.txga.com/serials-attach/FBB04004-F/Drawing-FBB04004-F.pdf)    
-   - TXGA connector [male data sheet](https://tupian.txga.com/serials-attach/FBB04004-M/Drawing-FBB04004-M.pdf)
+   - Panasonic connector [data sheet](https://industry.panasonic.eu/productfinder?mode=FILTER_MODE&search=&group=Connectors&sort=&category=Connectors&lineup=Narrow+pitch+connector&series=A4S%280.4mm+pitch%29)    
+   - TXGA connector [data sheet](https://txga.com/search.html?keyword=FBB04)    
 
 ### Connector part library
 Due to strict rules of [Component Search Engine](https://componentsearchengine.com) we cannot offer the ready to use libraries for download.  
