@@ -45,3 +45,8 @@ As you can see in the pictures, the roof of the air channels are a challenge for
 
 ## Community Shared Enclosures
 RAK welcomes you to share enclosure ideas, together with the images, 3D designs, and STL files.
+
+RAK19001 enclosure with holes for cable glands and lid with e-ink slot.
+| ![RAK19001_BOX_r](https://github.com/RAKWireless/Awesome-WisBlock/assets/29545872/66f3d15f-3604-42fb-b39f-ab8f3aab9d5a) | ![RAK19001_cap](https://github.com/RAKWireless/Awesome-WisBlock/assets/29545872/3ee511fb-5c62-477e-8206-bb5a72d294bf) |
+| --- | --- |
+
