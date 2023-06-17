@@ -85,6 +85,8 @@ This Eagle™ project is the outcome of the **WisBlock IO** tutorial. It is an I
 This is your space. We hope that you share the _**awesome**_ **WisBlock Sensor** and **WisBlock IO** you created here with the community.    
 
 ----
+### Mini IO extender 10x23mm footprint
+https://github.com/piecol/Wisblock_IO_extention_10x23/
 
 ----
 
