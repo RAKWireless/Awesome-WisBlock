@@ -87,6 +87,12 @@ This is your space. We hope that you share the _**awesome**_ **WisBlock Sensor**
 ----
 ### Mini IO extender 10x23mm footprint
 https://github.com/piecol/Wisblock_IO_extention_10x23/
+![IO_MOSAIC](https://github.com/RAKWireless/Awesome-WisBlock/assets/29545872/56046afe-264d-4d4d-a1a6-c33c8cd87be5)
+
+
+### WisBlock Power Module Template
+https://github.com/piecol/WisBlock_Power_module_template
+![power module](https://github.com/RAKWireless/Awesome-WisBlock/assets/29545872/e7e17683-038b-46ea-a403-3f65439ae821)
 
 ----
 
