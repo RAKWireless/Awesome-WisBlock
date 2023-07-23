@@ -131,4 +131,5 @@ In the tests I placed the sensor on the 1x2" steel bar of our front fence. For t
 | --- | --- |
 | <center><img src="./assets/Medium-Air-Quality-3.jpg" alt="RAKstar" width=100%></center> | <center><img src="./assets/Unify-mounting-holes.jpg" alt="WisBlock" width=100%></center> |
 
-![Assembly](./assets/Medium-Air-Quality-Assembly.avi)
+
+https://github.com/RAKWireless/Awesome-WisBlock/assets/512690/1a7c92b2-3e90-4afe-b32e-b8c4dce32c05
