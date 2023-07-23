@@ -1,5 +1,6 @@
-| <center><img src="../../assets/rakstar.jpg" alt="RAKstar" width=100%></center> | <center><img src="../../assets/WisBlock.svg" alt="WisBlock" width=100%></center> |
-| --- | --- |
+# Outdoor PoC
+
+<img src="../../assets/rakstar.jpg" alt="RAKstar" width=25%> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="../../assets/WisBlock.svg" alt="WisBlock" width=25%>
 
 The Unify Enclosures are perfect outdoor enclosures with IP67. But if you want to measure air quality data and need some air-flow through the enclosure, some customization is required.
 
