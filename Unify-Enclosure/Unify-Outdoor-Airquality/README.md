@@ -100,7 +100,7 @@ The files are located in different folders:
 - [Air inlet](./Medium-Air-Inlet-Down/)
 - [Bespoke Plate for the BaseBoard](./Medium-Bespoke/)
 - [Bespoke Plate for the Battery](./Medium-Battery-Mount/)
-- [Drill helpers](./Small-Drill-Helper/)
+- [Drill helpers](./Medium-Drill-Helper/)
 - [PM Sensor Carrier](./Medium-PM-Sensor-Carrier/)
 
 ## Details
