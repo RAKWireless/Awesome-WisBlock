@@ -28,10 +28,10 @@ If you have created your own awesome IO or Sensor module, please share it here w
 ----
 
 ## Read this first
-- The board-to-board connectors used in the **WisBlock** products can be bought from the [RAKwireless store](https://store.rakwireless.com). There are two suppliers for the connectors, Panasonic and TXGA. On the base board (RAK5005-O) are the female/socket version, on the modules are the male/header version      
-- Have a good look into the datasheet of the **RAK5005-O WisBlock Base** board to understand the signals connected to the 4 sensor slots. => [RAK5005-O datasheet](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/)    
-- Have a good look into the datasheet of one of the existing **WisBlock Sensor** modules to understand the usage of the signals. For example the [RAK1906 Environment sensor](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1906/Datasheet/)    
-- Have a good look into the datasheet of one of the existing **WisBlock IO** modules to understand the usage of the signals. For example the [RAK1920 Sensor Adapter](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1920/Datasheet/)    
+- The board-to-board connectors used in the **WisBlock** products can be bought from the [RAKwireless store](https://store.rakwireless.com). There are two suppliers for the connectors, Panasonic and TXGA. On the base board (RAK19007) are the female/socket version, on the modules are the male/header version      
+- Have a good look into the datasheet of the **RAK19007 WisBlock Base** board to understand the signals connected to the 4 sensor slots. => [RAK19007 datasheet](https://docs.rakwireless.com/product-categories/wisblock/rak19007/datasheet/)    
+- Have a good look into the datasheet of one of the existing **WisBlock Sensor** modules to understand the usage of the signals. For example the [RAK1906 Environment sensor](https://docs.rakwireless.com/product-categories/wisblock/rak1906/datasheet/rak1906/datasheet/)    
+- Have a good look into the datasheet of one of the existing **WisBlock IO** modules to understand the usage of the signals. For example the [RAK1920 Sensor Adapter](https://docs.rakwireless.com/product-categories/wisblock/rak1906/datasheet/rak1920/datasheet/)    
 
 ----
 
@@ -48,19 +48,21 @@ To make the task easier, we have prepared a complete example project for Autodes
 <img src="../assets/rakstar.jpg" alt="RAKstar" width=5%>Thanks to RAKstar @antoniovalente we have as well an SDI12 module available.
 
 ## Board-to-board connectors
+⚠️ The TXGA connector is no longer available. Compatible parts are available from Panasonic and BOX
+
 | 24 Pin Male | 24 Pin Female |
 | :--: | :--: |
 | ![24-pin male](../assets/24-pin-connector.jpg) | ![24-pin female](../assets/24-pin-connector-f.jpg) |     
 
-The board-to-board connectors used in the WisBlock products can be bought from the [RAKwireless store](https://store.rakwireless.com). There are two suppliers for the connectors, Panasonic and TXGA. On the base board (RAK5005-O) are the female/socket version, on the modules are the male/header version.      
+The board-to-board connectors used in the WisBlock products can be bought from the [RAKwireless store](https://store.rakwireless.com). There are two suppliers for the connectors, Panasonic and BOX. On the base board (RAK19007) are the female/socket version, on the modules are the male/header version.      
 There are two types of connectors. The 24pin male connector is used for WisBlock Sensor modules. The 40pin male connector is used for WisBlock IO modules.    
 | 40 Pin Male | 40 Pin Female |
 | :--: | :--: |
 | ![40-pin male](../assets/40-pin-connector.jpg) | ![40-pin female](./assets/40-pin-connector-f.jpg) |    
 
 ### Connector data sheets
-   - Panasonic connector [data sheet](https://industry.panasonic.eu/productfinder?mode=FILTER_MODE&search=&group=Connectors&sort=&category=Connectors&lineup=Narrow+pitch+connector&series=A4S%280.4mm+pitch%29)    
-   - TXGA connector [data sheet](https://txga.com/search.html?keyword=FBB04)    
+   - Panasonic connector [data sheet](https://industry.panasonic.eu/productfinder?search=AXE6&op=Find+your+product&mode=SEARCH_MODE&rangeAttributeFilters=%5B%5D&sort=%2Casc&attributeFilters=product_state%3Anew%2Cactive)    
+   - BOX connector [product page](http://www.boxgroup.hk/)    
 
 ### Connector part library
 Due to strict rules of [Component Search Engine](https://componentsearchengine.com) we cannot offer the ready to use libraries for download.  
